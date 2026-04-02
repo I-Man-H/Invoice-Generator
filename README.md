@@ -54,3 +54,11 @@ This project demonstrates:
 - Excel automation
 - data export workflows
 - defensive error handling for real-world compatibility issues
+
+## Author Note
+
+This project was fully developed by **Iman Hosseini** as part of my portfolio to demonstrate practical software development skills, including GUI design, PDF generation, and data handling in Python.
+
+Feel free to test, use, or modify this tool for your own needs.
+
+If you have any suggestions, improvements, or feedback, I would really appreciate hearing from you!
